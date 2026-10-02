@@ -1,6 +1,6 @@
 # Multimodal Image and Text Analysis Prototype
 
-A Phase III proof of concept combining product images and text for classification, captioning, visual question answering, and similarity-based retrieval.
+A project workflow proof of concept combining product images and text for classification, captioning, visual question answering, and similarity-based retrieval.
 
 > **Scope clarification:** The report proposes an IT hardware inventory and support-ticket use case. The submitted notebook experiments with a fashion-product image/text dataset. The results below describe the notebook experiment; they do not claim that an IT inventory system was implemented.
 
@@ -48,7 +48,7 @@ The report also notes class-level variation: frequent classes such as T-shirts, 
 
 ## Repository code
 
-`src/multimodal_prototype.py` contains Python cells exported from the Phase III notebook. Configure the dataset path and review model downloads before running. Dataset files and pretrained weights are not included.
+`src/multimodal_prototype.py` contains Python cells exported from the project workflow notebook. Configure the dataset path and review model downloads before running. Dataset files and pretrained weights are not included.
 
 ## Setup
 
