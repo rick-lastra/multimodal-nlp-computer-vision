@@ -1,4 +1,4 @@
-"""Python code exported from the course Phase III notebook. Review paths and data access before use."""
+"""Python code exported from the course project workflow notebook. Review paths and data access before use."""
 
 #Fragmento de código sugerido en Kaggle para descargar el dataset
 
