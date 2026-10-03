@@ -2,7 +2,7 @@
 
 A project workflow proof of concept combining product images and text for classification, captioning, visual question answering, and similarity-based retrieval.
 
-> **Scope clarification:** The report proposes an IT hardware inventory and support-ticket use case. The submitted notebook experiments with a fashion-product image/text dataset. The results below describe the notebook experiment; they do not claim that an IT inventory system was implemented.
+> **Scope clarification:** The report proposes an IT hardware inventory and support-ticket use case. The submitted notebook experiments with the [Fashion Product Images Dataset on Kaggle](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset). The results below describe the notebook experiment; they do not claim that an IT inventory system was implemented.
 
 ## Pipeline
 
@@ -49,6 +49,10 @@ The report also notes class-level variation: frequent classes such as T-shirts, 
 ## Repository code
 
 `src/multimodal_prototype.py` contains Python cells exported from the project workflow notebook. Configure the dataset path and review model downloads before running. Dataset files and pretrained weights are not included.
+
+## Dataset
+
+The experiment uses the [Fashion Product Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset), which includes product images and metadata. Download it from Kaggle under the dataset's current license and configure the local dataset path. The dataset is not copied into this repository.
 
 ## Setup
 
